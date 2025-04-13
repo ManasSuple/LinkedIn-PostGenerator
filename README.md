@@ -1,4 +1,3 @@
-Here’s your **README.md** for **Project 1: LinkedIn Post Generator**, in the same aesthetic and structured format you requested:
 
 ---
 
